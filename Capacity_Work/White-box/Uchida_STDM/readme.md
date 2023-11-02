@@ -1,0 +1,2 @@
+- ./watermark/Uchida.py: a brief implementation for *Embedding Watermarks into Deep Neural Networks*
+- ./watermark/STDM.py: a brief implementation for *Spread-Transform Dither Modulation Watermarking of Deep Neural Network*
